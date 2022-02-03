@@ -51,21 +51,21 @@ body{
     border-bottom: 1px solid rgba(255,255,255, 0.1);
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
 
 }
 
 .navContenedor{
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-between;
     height: inherit;
     padding: 0;
     
 }
 
 .nombreLogo{
-    font-size: 4em;
+    font-size: 4.5rem;
 }
 
 .link {
